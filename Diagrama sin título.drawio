@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T17:36:52.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="b96n7GPthMfWC3vnspOv" version="18.1.3" type="github"><diagram id="y8-RDS1pPnJqLcwymSLO" name="Página-1">ddGxDoMgEADQr2FXSKzO1rZLJ4fORK5Cgp5BGmm/vhqwlthOHI+D44CwsnNnwwd5RQGa0EQ4wo6EUlqkxTws8vSSZiz30holgm1QqxcETII+lIAxSrSI2qohxgb7HhobGTcGpzjtjjquOvAWdlA3XO/1poSVXnN62PwCqpVr5TQLHXd8TQ6djJILnL6IVYSVBtH6qHMl6OX11nfx+05/Vj8XM9DbHxvmYDt7nkRfxKo3</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-30T14:39:56.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="JNNWPsNUsDXrqMNm38NC" version="18.1.3" type="github">
+  <diagram id="y8-RDS1pPnJqLcwymSLO" name="Página-1">
+    <mxGraphModel dx="1497" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fzOmOooOpGmRxDgd1793-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CASOS DE USO&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-2" value="practica 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-3" value="1. requerimientos funcionales&amp;nbsp;&lt;br&gt;2. identificar actores&lt;br&gt;3. identificar casos de uso osea las funcionalidades&lt;br&gt;4. establecer las relaciones" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="100" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-4" value="&lt;b&gt;Requerimientos:&lt;/b&gt;&lt;br&gt;* El sistema debe permitir realizar reservas.&amp;nbsp;&lt;br&gt;* El sistema debe permitir ingresar datos para la reserva.&amp;nbsp;&lt;br&gt;* El sistema debe permitir buscar reservas en determinada fecha&lt;br&gt;* El sistema debe permitir hacer reservas condicionales (las que son sin sena)&lt;br&gt;* El sistema debe cancelar las reservas condicionales cuando haya una reserva normal&lt;br&gt;y notificar al cliente&lt;br&gt;* el sistema debe permitir ver las fechas de reserva" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="190" width="720" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="fzOmOooOpGmRxDgd1793-5" target="fzOmOooOpGmRxDgd1793-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="441" />
+              <mxPoint x="120" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="fzOmOooOpGmRxDgd1793-5" target="fzOmOooOpGmRxDgd1793-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-5" value="Empleado Salon" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-10" value="Solicitar reserva" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;endArrow=classic;endFill=1;startArrow=none;startFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="fzOmOooOpGmRxDgd1793-12" target="fzOmOooOpGmRxDgd1793-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-12" value="Ingresar Datos&lt;br&gt;Reserva" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-14" value="SOLICITAR RESERVA&lt;br&gt;Solicitar reserva el empleado empieza haciendo click ahi.&amp;nbsp;&lt;br&gt;El sistema muestra en pantalla el campo de ingresar fecha de reserva&lt;br&gt;Si la fecha ingresada tiene reserva se notifica&lt;br&gt;si la fecha ingresada tiene reserva condicional se toma pero&amp;nbsp;&lt;br&gt;muestra en pantalla que se cancelo otra reserva&lt;br&gt;y automaticamente se envia una notificacion al cliente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="700" width="580" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-15" value="&lt;br&gt;INGRESAR DATOS RESERVA&lt;br&gt;Una vez que esta todo ok con la fecha ingresar datos reserva extiende de solicitar&lt;br&gt;reserva. Solamente cuando este todo ok con la fecha si no se sigue buscando fecha.&amp;nbsp;&lt;br&gt;&lt;br&gt;CANCELAR RESERVA&lt;br&gt;cuando el empleado solicite se cancela la reserva&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="35" y="830" width="710" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-17" value="Cancelar&lt;br&gt;reserva" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-19" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="359" y="425" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzOmOooOpGmRxDgd1793-20" value="" style="swimlane;startSize=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="420" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
