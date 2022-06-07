@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T12:32:31.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="VA7nhpxrSGIq02fcdp4K" version="19.0.2" type="github"><diagram id="GR-tTph4JUJZI0ixPcaf" name="Página-1">7ZfbcpswEIafhstmDBhiXybGTqeTTDvjZtpcyrABpYJlhPAhT9+VEafgeJLWmeQiNx7064D2+9daYbmzdHslWZ7cYATCckbR1nIDy3H8iUu/WthVwtQ2Qix5VEl2Kyz5IxhxZNSSR1D0BipEoXjeF0PMMghVT2NS4qY/7B5F/605i2EgLEMmhuovHqmkUifOeat/BR4n9Zttf1r1pKwebCIpEhbhpiO5c8udSURVPaXbGQjNruZSzVs809tsTEKmXjLhfFfKh6vFz3T1PZhOvuHN3WPwZWL2pnZ1wBBR/KaJUiUYY8bEvFUvJZZZBHrVEbXaMdeIOYk2iQ+g1M6YyUqFJCUqFaaXNix3v838feNON868uhlsu53BrmlFF9pSamaYQaUsuBCmv4pFB/AsIiMVWMoQjnCpU43JGNSRcePGSPoDAKZA+6V5EgRTfN3fBzOpGDfjWrfowRj2CvOmn+b9l3nee5pXH3Cf7v2je/67uletu2aiNG+6LUomOQ5MpWM/149lKi5ChZJgrUEqTiXmmq1A/MCCK44ZDVmhUph2BlwIHusOpd3t2oilEjyDWVP0Wg/0XNged2FIrZ7gmqw01bopw5u29tVDkk7Z80dvxHk84Dy7tc9IaXCPeBZLKFgW6UbZyLvqUqAkK8CaudalzWiez1KNMlsVeUOs+w8Ugi4WOr03CVewzNk+VTd0tekbcALWznTcY207Q9aN1oU9eSvY3gHYTh92iGkuQBnakIUlFOqDg3XG7w3WPwDW7YMFzZXtqUpY8zqfKbNLoUgvPjZj139vxvbwSF7yQkHK9NcH0M/cZGtx7IxeSJa+AGEd5kQfvE183qmO4Un/GJ56w1P4/ADcRjw9XWdAl/JRKB09xeLH+ingLCZ8DfAZK5BgjwLYpzrWM2gH7aSBGYRN9WEzUwZDwgfyQH1MeRRV9yMo+CNb7ZfSXuTIM7Vn4V1aXqDXoitRUd2O9NKFkviH6qjQhbm+2tzTveaJdAJTn5RW94Cnh0qr93pLqdl+Vu77Ot/m7vwv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T12:34:58.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="YRnJ4iNHjMJq-t5Q0-Gu" version="19.0.2" type="github">
+  <diagram id="GR-tTph4JUJZI0ixPcaf" name="Página-1">
+    <mxGraphModel dx="683" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7yurjGFTmbOD98JoMYzD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7yurjGFTmbOD98JoMYzD-1" target="7yurjGFTmbOD98JoMYzD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7yurjGFTmbOD98JoMYzD-1" target="7yurjGFTmbOD98JoMYzD-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7yurjGFTmbOD98JoMYzD-1" target="7yurjGFTmbOD98JoMYzD-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-1" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-4" value="CU1. Usuario ingresando usuario y contraseña.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-5" value="CU2. Usuario completando encuesta.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-6" value="CU3. Usuario empleado revisando resultados.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-11" value="Sistema de Encuestas" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=50;" parent="1" vertex="1">
+          <mxGeometry x="180" y="95" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7yurjGFTmbOD98JoMYzD-12" value="&lt;h1&gt;Diagrama de Casos De Uso&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="20" width="330" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
